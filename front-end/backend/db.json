@@ -1,0 +1,28 @@
+{
+  "login": [
+    {
+      "id": "1",
+      "nome": "Vitória Pinho",
+      "e-mail": "vpinho@example.com",
+      "telephone": "13999999999",
+      "senha": "admin123"
+    },
+    {
+      "id": "2",
+      "nome": "Rafael",
+      "e-mail": "rafael@example.com",
+      "telephone": "13999999999",
+      "senha": "rafael123"
+    },
+    {
+      "id": "3",
+      "nome": "Maria Silva",
+      "e-mail": "msilva@example.com",
+      "telephone": "13999999999",
+      "senha": "admin123"
+    },
+    {
+      "id": "3872"
+    }
+  ]
+}
